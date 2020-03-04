@@ -1,0 +1,257 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'AIC_LRCIN'
+Slack : -24.399
+TNS   : -64012.821
+
+Type  : Slow 1200mV 85C Model Setup 'Clock_divider:Clock_divider_block|sFCLK'
+Slack : -23.778
+TNS   : -21201.297
+
+Type  : Slow 1200mV 85C Model Setup 'CLOCK_50'
+Slack : -2.556
+TNS   : -63.804
+
+Type  : Slow 1200mV 85C Model Setup 'AUD_DACLRCK'
+Slack : -2.416
+TNS   : -32.543
+
+Type  : Slow 1200mV 85C Model Setup 'AUD_BCK'
+Slack : -2.325
+TNS   : -66.811
+
+Type  : Slow 1200mV 85C Model Setup 'AIC_BCLK'
+Slack : -2.310
+TNS   : -120.462
+
+Type  : Slow 1200mV 85C Model Setup 'Clock_divider:Clock_divider_block|sSCLK'
+Slack : -1.635
+TNS   : -16.645
+
+Type  : Slow 1200mV 85C Model Hold 'AUD_BCK'
+Slack : -0.105
+TNS   : -0.735
+
+Type  : Slow 1200mV 85C Model Hold 'CLOCK_50'
+Slack : -0.073
+TNS   : -0.122
+
+Type  : Slow 1200mV 85C Model Hold 'AIC_BCLK'
+Slack : 0.025
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'AIC_LRCIN'
+Slack : 0.262
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Clock_divider:Clock_divider_block|sFCLK'
+Slack : 0.329
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Clock_divider:Clock_divider_block|sSCLK'
+Slack : 0.392
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'AUD_DACLRCK'
+Slack : 0.445
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Clock_divider:Clock_divider_block|sFCLK'
+Slack : -3.000
+TNS   : -4096.027
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'AIC_LRCIN'
+Slack : -3.000
+TNS   : -3806.600
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'AIC_BCLK'
+Slack : -3.000
+TNS   : -121.220
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'AUD_BCK'
+Slack : -3.000
+TNS   : -71.105
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -3.000
+TNS   : -49.260
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'AUD_DACLRCK'
+Slack : -3.000
+TNS   : -44.120
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Clock_divider:Clock_divider_block|sSCLK'
+Slack : -1.285
+TNS   : -28.270
+
+Type  : Slow 1200mV 0C Model Setup 'AIC_LRCIN'
+Slack : -21.666
+TNS   : -56953.328
+
+Type  : Slow 1200mV 0C Model Setup 'Clock_divider:Clock_divider_block|sFCLK'
+Slack : -21.517
+TNS   : -19575.421
+
+Type  : Slow 1200mV 0C Model Setup 'CLOCK_50'
+Slack : -2.244
+TNS   : -55.188
+
+Type  : Slow 1200mV 0C Model Setup 'AUD_DACLRCK'
+Slack : -2.155
+TNS   : -28.304
+
+Type  : Slow 1200mV 0C Model Setup 'AIC_BCLK'
+Slack : -1.977
+TNS   : -104.385
+
+Type  : Slow 1200mV 0C Model Setup 'AUD_BCK'
+Slack : -1.957
+TNS   : -57.171
+
+Type  : Slow 1200mV 0C Model Setup 'Clock_divider:Clock_divider_block|sSCLK'
+Slack : -1.377
+TNS   : -12.946
+
+Type  : Slow 1200mV 0C Model Hold 'AUD_BCK'
+Slack : -0.087
+TNS   : -0.609
+
+Type  : Slow 1200mV 0C Model Hold 'CLOCK_50'
+Slack : -0.051
+TNS   : -0.069
+
+Type  : Slow 1200mV 0C Model Hold 'AIC_BCLK'
+Slack : 0.039
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'AIC_LRCIN'
+Slack : 0.190
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Clock_divider:Clock_divider_block|sFCLK'
+Slack : 0.331
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Clock_divider:Clock_divider_block|sSCLK'
+Slack : 0.350
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'AUD_DACLRCK'
+Slack : 0.462
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Clock_divider:Clock_divider_block|sFCLK'
+Slack : -3.000
+TNS   : -4095.191
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'AIC_LRCIN'
+Slack : -3.000
+TNS   : -3806.600
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'AIC_BCLK'
+Slack : -3.000
+TNS   : -121.220
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'AUD_BCK'
+Slack : -3.000
+TNS   : -71.105
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -3.000
+TNS   : -49.260
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'AUD_DACLRCK'
+Slack : -3.000
+TNS   : -44.120
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Clock_divider:Clock_divider_block|sSCLK'
+Slack : -1.285
+TNS   : -28.270
+
+Type  : Fast 1200mV 0C Model Setup 'AIC_LRCIN'
+Slack : -12.138
+TNS   : -31351.479
+
+Type  : Fast 1200mV 0C Model Setup 'Clock_divider:Clock_divider_block|sFCLK'
+Slack : -11.576
+TNS   : -10495.392
+
+Type  : Fast 1200mV 0C Model Setup 'AUD_DACLRCK'
+Slack : -1.375
+TNS   : -19.280
+
+Type  : Fast 1200mV 0C Model Setup 'AIC_BCLK'
+Slack : -1.364
+TNS   : -41.301
+
+Type  : Fast 1200mV 0C Model Setup 'AUD_BCK'
+Slack : -1.354
+TNS   : -21.321
+
+Type  : Fast 1200mV 0C Model Setup 'CLOCK_50'
+Slack : -0.758
+TNS   : -13.801
+
+Type  : Fast 1200mV 0C Model Setup 'Clock_divider:Clock_divider_block|sSCLK'
+Slack : -0.306
+TNS   : -1.450
+
+Type  : Fast 1200mV 0C Model Hold 'CLOCK_50'
+Slack : -0.235
+TNS   : -0.435
+
+Type  : Fast 1200mV 0C Model Hold 'AUD_BCK'
+Slack : -0.110
+TNS   : -0.847
+
+Type  : Fast 1200mV 0C Model Hold 'AIC_BCLK'
+Slack : -0.009
+TNS   : -0.077
+
+Type  : Fast 1200mV 0C Model Hold 'AIC_LRCIN'
+Slack : 0.118
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Clock_divider:Clock_divider_block|sFCLK'
+Slack : 0.126
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Clock_divider:Clock_divider_block|sSCLK'
+Slack : 0.178
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'AUD_DACLRCK'
+Slack : 0.686
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'AIC_LRCIN'
+Slack : -3.000
+TNS   : -4118.105
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'AIC_BCLK'
+Slack : -3.000
+TNS   : -120.888
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'AUD_BCK'
+Slack : -3.000
+TNS   : -73.774
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -3.000
+TNS   : -41.315
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'AUD_DACLRCK'
+Slack : -3.000
+TNS   : -37.292
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Clock_divider:Clock_divider_block|sFCLK'
+Slack : -1.000
+TNS   : -2051.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Clock_divider:Clock_divider_block|sSCLK'
+Slack : -1.000
+TNS   : -22.000
+
+------------------------------------------------------------
